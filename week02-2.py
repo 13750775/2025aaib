@@ -1,7 +1,7 @@
-#include <stdio.h>
-int main()
-{
-    int a=123,b=100;
-    printf("���k%d",a/b);
-    printf("�l��%d",a%b);
-}
+# week02-2-py
+
+a=123
+b=100
+print("a是",a,"b是",b)
+print("整數乘法a//b得到", a//b )
+print("餘數a%b得到", a%b)
